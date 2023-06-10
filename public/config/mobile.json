@@ -1,0 +1,18 @@
+[
+    {
+        "id": "pushdown",
+        "name": "pushdown",
+        "platform": "mobile",
+        "size_width": "320px",
+        "size_height": "480px",
+        "target_id": "default"
+    },
+    {
+        "id": "horizontal-ads",
+        "name": "Horizontal Ads",
+        "platform": "mobile",
+        "size_width": "320px",
+        "size_height": "480px",
+        "target_id": "default"
+    }
+]
